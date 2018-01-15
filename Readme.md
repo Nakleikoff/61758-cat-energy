@@ -1,7 +1,7 @@
 # Личный проект «Кэт Энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алексей Е.](https://up.htmlacademy.ru/adaptive/13/user/61758).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
